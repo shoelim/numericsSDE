@@ -1,4 +1,4 @@
 # numericsSDE
 # Numerical Solutions to SDEs with Examples
 
-This folder contains the jupyter notebooks that solve certain SDEs numerically. 
+This folder contains jupyter notebooks that compute solution to certain SDEs numerically.
